@@ -26,9 +26,9 @@
 
 📈 **Estatísticas do GitHub**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkkinho&show_icons=true&theme=radical" alt="stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darkkinho&theme=radical" alt="streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkkinho&layout=compact&theme=radical" alt="top langs"/>
 </p>
