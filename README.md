@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, me chamo Rafael Silva</h1>
+<h3 align="center">Estudante de Desenvolvimento Android com Kotlin</h3>
 
-<!--
-**Darkkinho/Darkkinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Atualmente estudando **desenvolvimento de apps Android com Kotlin**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Tecnologias que uso no momento:
+- 🧑‍💻 Kotlin
+- 📱 Android SDK
+- 🎨 XML para layouts
+
+📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/rafael-duarte-86a4a5351/)
+
+---
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
+</p>
+
+---
+
+📈 **Estatísticas do GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael&show_icons=true&theme=radical" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael&theme=radical" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael&layout=compact&theme=radical" alt="top langs"/>
+</p>
