@@ -1,14 +1,19 @@
-<h1 align="center">Olá 👋, me chamo Rafael Silva</h1>
+<h1 align="center">Olá, me chamo Rafael Silva</h1>
 <h3 align="center">Desenvolvedor Android Junior</h3>
 
 ---
 
-🌱 Atualmente estudando **desenvolvimento de apps Android com Kotlin**
+ Atualmente estudando **desenvolvimento de apps Android com Kotlin**
 
-💡 Tecnologias que uso no momento:
-- 🧑‍💻 Kotlin
-- 📱 Android SDK
-- 🎨 XML para layouts
+Tecnologias que uso no momento:
+- Kotlin 
+- Android SDK 
+- XML para layouts 
+- room
+- mvvm
+- Retrofit
+- Coroutines
+- Git & GitHub
 
 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/rafael-duarte-86a4a5351/)
