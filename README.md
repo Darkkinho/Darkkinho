@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Rafael Silva</h1>
-<h3 align="center">Desenvolvedor Android Junior</h3>
+<h3 align="center">Estudante de desenvolvimento android</h3>
 
 ---
 
