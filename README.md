@@ -1,32 +1,10 @@
 <h1 align="center">Olá, me chamo Rafael Silva</h1>
-<h2 align="center">estido ads na ifrn Natal-Central</h2>
-
-<h3 align="center">Estudante de desenvolvimento android</h3>
-
+<h2 align="center">Estudo análise e desenvolvimento de sistema na ifrn Natal-Central</h2>
 ---
-
- Atualmente estudando **desenvolvimento de apps Android com Kotlin**
-
-Tecnologias que estou estudando no momento:
-- Kotlin 
-- Android SDK 
-- XML para layouts 
-- room
-- mvvm
-- Retrofit
 
 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/rafael-duarte-86a4a5351/)
-
----
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
-</p>
-
+  
 ---
 
 📈 **Estatísticas do GitHub**
