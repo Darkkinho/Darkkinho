@@ -1,19 +1,19 @@
 <h1 align="center">Olá, me chamo Rafael Silva</h1>
+<h2 align="center">estido ads na ifrn Natal-Central</h2>
+
 <h3 align="center">Estudante de desenvolvimento android</h3>
 
 ---
 
  Atualmente estudando **desenvolvimento de apps Android com Kotlin**
 
-Tecnologias que uso no momento:
+Tecnologias que estou estudando no momento:
 - Kotlin 
 - Android SDK 
 - XML para layouts 
 - room
 - mvvm
 - Retrofit
-- Coroutines
-- Git & GitHub
 
 📫 Como me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/rafael-duarte-86a4a5351/)
